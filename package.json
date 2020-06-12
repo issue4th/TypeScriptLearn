@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/issue4th/TypeScriptLearn/issues"
   },
-  "homepage": "https://github.com/issue4th/TypeScriptLearn#readme"
+  "homepage": "https://github.com/issue4th/TypeScriptLearn#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
